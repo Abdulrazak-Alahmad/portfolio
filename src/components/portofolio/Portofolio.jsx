@@ -4,33 +4,42 @@ import IMG1 from '../../assets/5.jpeg'
 import IMG2 from '../../assets/2.webp'
 import IMG3 from '../../assets/3.jpg'
 import IMG4 from '../../assets/4.jpg'
+import IMG5 from '../../assets/1.jpg'
 const data =[
-{
-  id:1,
-  image:IMG1,
-  title:"Fetch Data github-Api",
-  github:'https://github.com/Abdulrazak-Alahmad/Github-Api',
-  demo:'https://Abdulrazak-Alahmad.io/Github-Api',
-},
+
 {
   id:2,
   image:IMG2,
   title:"Quotes Generator",
   github:'https://github.com/Abdulrazak-Alahmad/Quotes-Generator',
-  demo:'https://Abdulrazak-Alahmad.io/Quotes-Generator',
+  demo:'https://abdulrazak-alahmad.github.io/Quotes-Generator/',
 },{
   id:3,
   image:IMG4,
   title:"Countdown Timer",
   github:'https://github.com/Abdulrazak-Alahmad/CountdownTimer',
-  demo:'https://Abdulrazak-Alahmad.io/CountdownTimer',
+  demo:'https://abdulrazak-alahmad.github.io/CountdownTimer/',
+},
+{
+  id:1,
+  image:IMG1,
+  title:"From Turing to Gates",
+  github:'https://github.com/Abdulrazak-Alahmad/J.Quary',
+  demo:'https://abdulrazak-alahmad.github.io/J.Quary/',
 },
 {
   id:4,
   image:IMG3,
   title:"Pomodoro Timer",
   github:'https://github.com/Abdulrazak-Alahmad/Pomodoro-timer',
-  demo:'https://Abdulrazak-Alahmad.io/Pomodoro-timer',
+  demo:'https://abdulrazak-alahmad.github.io/Pomodoro-timer/',
+},
+{
+  id:5,
+  image:IMG5,
+  title:"microfinance_Institution",
+  github:'https://github.com/Abdulrazak-Alahmad/microfinance_Institution',
+  demo:'https://abdulrazak-alahmad.github.io/microfinance_Institution/',
 }
 ]
 export default function Portofolio() {
