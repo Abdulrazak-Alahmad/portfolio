@@ -8,20 +8,20 @@ import IMG5 from '../../assets/1.jpg'
 const data =[
 
 {
-  id:2,
+  id:1,
   image:IMG2,
   title:"Quotes Generator",
   github:'https://github.com/Abdulrazak-Alahmad/Quotes-Generator',
   demo:'https://abdulrazak-alahmad.github.io/Quotes-Generator/',
 },{
-  id:3,
+  id:2,
   image:IMG4,
   title:"Countdown Timer",
   github:'https://github.com/Abdulrazak-Alahmad/CountdownTimer',
   demo:'https://abdulrazak-alahmad.github.io/CountdownTimer/',
 },
 {
-  id:1,
+  id:3,
   image:IMG1,
   title:"From Turing to Gates",
   github:'https://github.com/Abdulrazak-Alahmad/J.Quary',
