@@ -1,215 +1,383 @@
 {
   
 
-  "name": "portofolio",
+
+
+"name": "portofolio",
   
 
-  "version": "0.1.0",
+
+
+"version": "0.1.0",
   
 
-  "homepage": "https://Abdulrazak-Alahmad.github.io/portfolio",
+
+
+"homepage": "https://Abdulrazak-Alahmad.github.io/portfolio",
   
 
-  "private": true,
+
+
+"private": true,
   
 
-  "dependencies": {
+
+
+"dependencies": {
   
 
-    
 
-  "@testing-library/jest-dom": "^5.16.4",
+
   
 
-    
 
-  "@testing-library/react": "^13.2.0",
+
+"@testing-library/jest-dom": "^5.16.4",
   
 
-    
 
-  "@testing-library/user-event": "^13.5.0",
+
   
 
-    
 
-  "emailjs-com": "^3.2.0",
+
+"@testing-library/react": "^13.2.0",
   
 
-    
 
-  "react": "^18.1.0",
+
   
 
-    
 
-  "react-dom": "^18.1.0",
+
+"@testing-library/user-event": "^13.5.0",
   
 
-    
 
-  "react-icons": "^4.3.1",
+
   
 
-    
 
-  "react-scripts": "5.0.1",
+
+"emailjs-com": "^3.2.0",
   
 
-    
 
-  "swiper": "^8.1.4",
+
   
 
-    
 
-  "web-vitals": "^2.1.4"
+
+"react": "^18.1.0",
   
 
-  },
+
+
   
 
-  "scripts": {
+
+
+"react-dom": "^18.1.0",
   
 
-    
 
-  "predeploy": "npm run build",
+
   
 
-    
 
-  "deploy": "gh-pages -d build",
+
+"react-icons": "^4.3.1",
   
 
-    
 
-  "start": "react-scripts start",
+
   
 
-    
 
-  "build": "react-scripts build",
+
+"react-scripts": "5.0.1",
   
 
-    
 
-  "test": "react-scripts test",
+
   
 
-    
 
-  "eject": "react-scripts eject"
+
+"swiper": "^8.1.4",
   
 
-  },
+
+
   
 
-  "eslintConfig": {
+
+
+"web-vitals": "^2.1.4"
   
 
-    
 
-  "extends": [
+
+},
   
 
-    
 
-    
 
-  "react-app",
+"scripts": {
   
 
-    
 
-    
 
-  "react-app/jest"
   
 
-    
 
-  ]
+
+"predeploy": "npm run build",
   
 
-  },
+
+
   
 
-  "browserslist": {
+
+
+"deploy": "gh-pages -d build",
   
 
-    
 
-  "production": [
+
   
 
-    
 
-    
 
-  ">0.2%",
+"start": "react-scripts start",
   
 
-    
 
-    
 
-  "not dead",
   
 
-    
 
-    
 
-  "not op_mini all"
+"build": "react-scripts build",
   
 
-    
 
-  ],
+
   
 
-    
 
-  "development": [
+
+"test": "react-scripts test",
   
 
-    
 
-    
 
-  "last 1 chrome version",
   
 
-    
 
-    
 
-  "last 1 firefox version",
+"eject": "react-scripts eject"
   
 
-    
 
-    
 
-  "last 1 safari version"
+},
   
 
-    
 
-  ]
+
+"eslintConfig": {
   
 
-  },
+
+
   
 
-  "devDependencies": {
+
+
+"extends": [
   
 
-    
 
-  "gh-pages": "^4.0.0"
+
   
 
-  }
+
+
+  
+
+
+
+"react-app",
+  
+
+
+
+  
+
+
+
+  
+
+
+
+"react-app/jest"
+  
+
+
+
+  
+
+
+
+]
+  
+
+
+
+},
+  
+
+
+
+"browserslist": {
+  
+
+
+
+  
+
+
+
+"production": [
+  
+
+
+
+  
+
+
+
+  
+
+
+
+">0.2%",
+  
+
+
+
+  
+
+
+
+  
+
+
+
+"not dead",
+  
+
+
+
+  
+
+
+
+  
+
+
+
+"not op_mini all"
+  
+
+
+
+  
+
+
+
+],
+  
+
+
+
+  
+
+
+
+"development": [
+  
+
+
+
+  
+
+
+
+  
+
+
+
+"last 1 chrome version",
+  
+
+
+
+  
+
+
+
+  
+
+
+
+"last 1 firefox version",
+  
+
+
+
+  
+
+
+
+  
+
+
+
+"last 1 safari version"
+  
+
+
+
+  
+
+
+
+]
+  
+
+
+
+},
+  
+
+
+
+"devDependencies": {
+  
+
+
+
+  
+
+
+
+"gh-pages": "^4.0.0"
+  
+
+
+
+}
 }
