@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a2869abb.css",
+    "main.js": "/portfolio/static/js/main.399cff6a.js",
+    "static/js/787.b7af92ad.chunk.js": "/portfolio/static/js/787.b7af92ad.chunk.js",
+    "static/media/IMG_0004.jpeg": "/portfolio/static/media/IMG_0004.f079c94c08e5c56aa7cf.jpeg",
+    "static/media/4.jpg": "/portfolio/static/media/4.019a93f62f65d7569257.jpg",
+    "static/media/1.jpg": "/portfolio/static/media/1.e63f4917472cd66d7b26.jpg",
+    "static/media/mohamed.jpeg": "/portfolio/static/media/mohamed.e373516a3e658597409a.jpeg",
+    "static/media/3.jpg": "/portfolio/static/media/3.9450bd2714ff31a3d37f.jpg",
+    "static/media/Alahmad_Abdulrazak.pdf": "/portfolio/static/media/Alahmad_Abdulrazak.9ee71bef4cd571623bb3.pdf",
+    "static/media/2.webp": "/portfolio/static/media/2.0cb5afb3dc56bf6dddf0.webp",
+    "static/media/5.jpeg": "/portfolio/static/media/5.20c45f5f48975a0df22d.jpeg",
+    "static/media/girl.webp": "/portfolio/static/media/girl.7360e2dfa258b45aa16d.webp",
+    "index.html": "/portfolio/index.html",
+    "main.a2869abb.css.map": "/portfolio/static/css/main.a2869abb.css.map",
+    "main.399cff6a.js.map": "/portfolio/static/js/main.399cff6a.js.map",
+    "787.b7af92ad.chunk.js.map": "/portfolio/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2869abb.css",
+    "static/js/main.399cff6a.js"
+  ]
+}
