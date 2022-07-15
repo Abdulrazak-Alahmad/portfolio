@@ -20,23 +20,17 @@ const data =[
   github:'https://github.com/Abdulrazak-Alahmad/CountdownTimer',
   demo:'https://abdulrazak-alahmad.github.io/CountdownTimer/',
 },
+
 {
   id:3,
   image:IMG1,
-  title:"From Turing to Gates",
-  github:'https://github.com/Abdulrazak-Alahmad/J.Quary',
-  demo:'https://abdulrazak-alahmad.github.io/J.Quary/',
-},
-{
-  id:4,
-  image:IMG3,
   title:"Pomodoro Timer",
   github:'https://github.com/Abdulrazak-Alahmad/Pomodoro-timer',
   demo:'https://abdulrazak-alahmad.github.io/Pomodoro-timer/',
 },
 {
-  id:5,
-  image:IMG5,
+  id:4,
+  image:IMG3,
   title:"microfinance_Institution",
   github:'https://github.com/Abdulrazak-Alahmad/microfinance_Institution',
   demo:'https://abdulrazak-alahmad.github.io/microfinance_Institution/',

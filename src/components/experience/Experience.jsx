@@ -1,6 +1,6 @@
 import React from 'react'
 import './experience.css'
-import {FaCalendarCheck} from 'react-icons/fa'
+import { FaCalendarCheck } from 'react-icons/fa'
 export default function Experience() {
   return (
     <section id='experience'>
@@ -13,24 +13,24 @@ export default function Experience() {
           <h3>Frontend Development</h3>
           <div className='experience__content'>
             <article className='experience__details'>
-              <FaCalendarCheck className='experience__details-icon'/> 
+              <FaCalendarCheck className='experience__details-icon' />
               <div><h4>HTML</h4>
-              <small className='text-light'>Experienced</small></div>
+                <small className='text-light'>Experienced</small></div>
             </article>
             <article className='experience__details'>
-              <FaCalendarCheck className='experience__details-icon'/> 
+              <FaCalendarCheck className='experience__details-icon' />
               <div><h4>CSS</h4>
-              <small className='text-light'>Intermediate</small></div>
+                <small className='text-light'>Intermediate</small></div>
             </article>
             <article className='experience__details'>
-              <FaCalendarCheck className='experience__details-icon'/> 
+              <FaCalendarCheck className='experience__details-icon' />
               <div><h4>JavaScript</h4>
-              <small className='text-light'>Intermediate</small></div>
+                <small className='text-light'>Intermediate</small></div>
             </article>
             <article className='experience__details'>
-              <FaCalendarCheck className='experience__details-icon'/> 
+              <FaCalendarCheck className='experience__details-icon' />
               <div><h4>React</h4>
-              <small className='text-light'>Intermediate</small></div>
+                <small className='text-light'>Intermediate</small></div>
             </article>
           </div>
         </div>
@@ -38,24 +38,28 @@ export default function Experience() {
         <div className='experience__backend'>
 
 
-        <h3>Backeend Development</h3>
+          <h3>Back-end Development</h3>
           <div className='experience__content'>
             <article className='experience__details'>
-              <FaCalendarCheck className='experience__details-icon'/> 
+              <FaCalendarCheck className='experience__details-icon' />
               <div><h4>Node JS</h4>
-              <small className='text-light'>Baisc</small></div>
-            </article>
-            <article className='experience__details'>
-              <FaCalendarCheck className='experience__details-icon'/> 
-              <div><h4>MySQl</h4>
-              <small className='text-light'>Basic</small></div>
-            </article>
-            <article className='experience__details'>
-              <FaCalendarCheck className='experience__details-icon'/> 
+                <small className='text-light'>Intermediate</small></div>
+            </article><article className='experience__details'>
+              <FaCalendarCheck className='experience__details-icon' />
               <div><h4>Python</h4>
-              <small className='text-light'>Intermediate</small></div>
+                <small className='text-light'>Intermediate</small></div>
             </article>
-            
+            <article className='experience__details'>
+              <FaCalendarCheck className='experience__details-icon' />
+              <div><h4>MySQl</h4>
+                <small className='text-light'>Basic</small></div>
+            </article>
+            <article className='experience__details'>
+              <FaCalendarCheck className='experience__details-icon' />
+              <div><h4>C++</h4>
+                <small className='text-light'>Intermediate</small></div>
+            </article>
+
           </div>
 
         </div>
